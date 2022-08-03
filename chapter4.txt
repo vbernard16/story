@@ -1,0 +1,1 @@
+Example for showing how to switch branches in git.
